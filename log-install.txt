@@ -1,0 +1,24 @@
+   >>> Service & Port
+   - OpenSSH		: 22
+   - Dropbear		: 109, 143
+   - Badvpn		: 7100-7900
+   - Nginx		: 81
+   - Vless WS TLS	: 443
+   - Vless XHTTP TLS	: 443
+   - Vless HUP TLS	: 443
+   - Vless WS NTLS	: 80
+   - Vless XHTTP NTLS	: 80
+   - Vless HUP NTLS	: 80
+
+   >>> Server Information & Other Features
+   - Timezone		: Asia/Kuala_Lumpur (GMT +8)
+   - Fail2Ban		: [ON]
+   - Dflate		: [ON]
+   - IPtables		: [ON]
+   - Auto-Reboot	: [ON]
+   - IPv6		: [OFF]
+   - Autoreboot On	: :00  GMT +8
+   - AutoKill Multi Login User
+   - Auto Delete Expired Account
+   - Fully automatic script
+   - Telegram bot
